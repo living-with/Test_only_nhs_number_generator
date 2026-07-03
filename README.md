@@ -8,11 +8,11 @@ Generate five (-n 5) sequential (-d) formatted (-f) nhs numbers:
 
 ```
 $ python3 generate_nhs_numbers.py -n 5 -d -f
-400 000 0004
-400 000 0012
-400 000 0020
-400 000 0039
-400 000 0047
+999 000 0004
+999 000 0012
+999 000 0020
+999 000 0039
+999 000 0047
 ```
 
 Use the -h flag for help:
